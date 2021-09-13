@@ -1,2 +1,2 @@
 # cryptospace
-Tracks cryptocurrency
+Cryptocurrency Tracker
